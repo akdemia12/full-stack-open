@@ -1,0 +1,17 @@
+.added{
+    color: rgb(3, 53, 3);
+    background-color: yellowgreen;
+    font-style: italic;
+    width: 50%;
+    border: 1px solid red;
+
+}
+
+.error{
+
+    color: rgb(255, 2, 2);
+    background-color: grey;
+    font-style: italic;
+    width: 50%;
+    border: 1px solid red;
+}
